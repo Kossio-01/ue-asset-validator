@@ -19,3 +19,19 @@ A Python-based validation engine for Unreal Engine 5 that audits 3D assets durin
 
 ## 📊 PIPELINE INTEGRATION
 This tool is the first pillar of my **Engineering Manifesto**, focused on **Data Integrity** and **Automation First**.
+
+---
+
+## 📝 CHANGELOG
+
+### v0.1.0 - July 4, 2026
+- **UI Redesign:** Artist-friendly visual interface with live selection snapshot
+- **Dark Theme:** Applied Unreal Engine aesthetic (`#151515` background, `#2F2F2F` panels, white text)
+- **Compact Layout:** Optimized window size for standard monitors (~900x620)
+- **Live Selection Panel:** Real-time display of selected actors with visual indicators
+- **Summary Dashboard:** Quick overview cards (Selected, Passed, Needs Review)
+- **Results & Report Section:** Color-coded validation results with detailed feedback
+- **Core Validation Module:** Refactored `src/core/__init__.py` with structured data classes and Unreal-agnostic logic
+- **English UI Localization:** All visible text now in English
+![img.png](img.png)
+
