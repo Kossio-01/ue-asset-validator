@@ -33,5 +33,5 @@ This tool is the first pillar of my **Engineering Manifesto**, focused on **Data
 - **Results & Report Section:** Color-coded validation results with detailed feedback
 - **Core Validation Module:** Refactored `src/core/__init__.py` with structured data classes and Unreal-agnostic logic
 - **English UI Localization:** All visible text now in English
-![img.png](img.png)
+![first-ui 2026-07-04 132243.png](media/first-ui%202026-07-04%20132243.png)
 
